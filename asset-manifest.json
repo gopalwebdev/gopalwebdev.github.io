@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1e0034be.chunk.css",
+    "main.js": "/static/js/main.d8b8956e.chunk.js",
+    "main.js.map": "/static/js/main.d8b8956e.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.ddc40c47.js",
+    "runtime-main.js.map": "/static/js/runtime-main.ddc40c47.js.map",
+    "static/css/2.a94b6df7.chunk.css": "/static/css/2.a94b6df7.chunk.css",
+    "static/js/2.34d42ea6.chunk.js": "/static/js/2.34d42ea6.chunk.js",
+    "static/js/2.34d42ea6.chunk.js.map": "/static/js/2.34d42ea6.chunk.js.map",
+    "static/js/3.3b16cdb8.chunk.js": "/static/js/3.3b16cdb8.chunk.js",
+    "static/js/3.3b16cdb8.chunk.js.map": "/static/js/3.3b16cdb8.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.a94b6df7.chunk.css.map": "/static/css/2.a94b6df7.chunk.css.map",
+    "static/css/main.1e0034be.chunk.css.map": "/static/css/main.1e0034be.chunk.css.map",
+    "static/js/2.34d42ea6.chunk.js.LICENSE.txt": "/static/js/2.34d42ea6.chunk.js.LICENSE.txt",
+    "static/media/1.f19ad95d.jpg": "/static/media/1.f19ad95d.jpg",
+    "static/media/2.dc1fe777.jpg": "/static/media/2.dc1fe777.jpg",
+    "static/media/3.241ab08a.jpg": "/static/media/3.241ab08a.jpg",
+    "static/media/4.e60f5853.jpg": "/static/media/4.e60f5853.jpg",
+    "static/media/5.ef20ca5b.png": "/static/media/5.ef20ca5b.png",
+    "static/media/ayaz.8cfef2fd.jpg": "/static/media/ayaz.8cfef2fd.jpg",
+    "static/media/facebook.cebbbbea.svg": "/static/media/facebook.cebbbbea.svg",
+    "static/media/gmail.580a851b.svg": "/static/media/gmail.580a851b.svg",
+    "static/media/google-maps.df0be440.svg": "/static/media/google-maps.df0be440.svg",
+    "static/media/instagram.27ff105b.svg": "/static/media/instagram.27ff105b.svg",
+    "static/media/landing.77b1f536.svg": "/static/media/landing.77b1f536.svg",
+    "static/media/linkedin.cbf3eac9.svg": "/static/media/linkedin.cbf3eac9.svg",
+    "static/media/logo.8dd51fa0.png": "/static/media/logo.8dd51fa0.png",
+    "static/media/pcb-board.56d68dfa.svg": "/static/media/pcb-board.56d68dfa.svg",
+    "static/media/smart.0a2d5832.svg": "/static/media/smart.0a2d5832.svg",
+    "static/media/telephone.2ae70d6c.svg": "/static/media/telephone.2ae70d6c.svg",
+    "static/media/whatsapp.f179709d.svg": "/static/media/whatsapp.f179709d.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ddc40c47.js",
+    "static/css/2.a94b6df7.chunk.css",
+    "static/js/2.34d42ea6.chunk.js",
+    "static/css/main.1e0034be.chunk.css",
+    "static/js/main.d8b8956e.chunk.js"
+  ]
+}
